@@ -1,8 +1,8 @@
 # Cécile Tambey
 
-MSc student in Data Science & Business Analytics at IE University with experience in banking, consulting, and business development.
+MSc student in Data Science & Business Analytics at IE University with a focus on applying data analysis and statistical modeling to real-world business problems.
 
-I focus on applying data analysis and statistical methods to solve business problems and support decision-making.
+Background in finance, consulting, and business development, with a strong interest in using data to drive performance and decision-making.
 
 ## Tools and Skills
 
@@ -10,10 +10,17 @@ Python · SQL · R · Power BI · Tableau · Excel · Machine Learning · Statis
 
 ## Selected Projects
 
-* Financial Data Analysis and Forecasting — variance analysis, KPI tracking, and performance evaluation
-* SQL Business Performance Analysis — complex queries, aggregations, and trend analysis
-* Python Data Analysis Pipeline — data cleaning, exploratory data analysis, and visualization
-* Econometrics Modeling in R — regression modeling and interpretation of results
+* Financial Data Analysis and Forecasting
+  Analyzed multi-year financial data to identify performance trends, forecast key metrics, and support budgeting decisions.
+
+* SQL Business Performance Analysis
+  Used advanced SQL queries (joins, aggregations, window functions) to analyze large datasets and uncover business insights.
+
+* Python Data Analysis Pipeline
+  Built an end-to-end workflow for data cleaning, exploratory analysis, and visualization using pandas and scikit-learn.
+
+* Econometrics Modeling in R
+  Developed a regression model (R² = 0.86) to identify key drivers and translate statistical results into actionable recommendations.
 
 ## Interests
 
